@@ -1,0 +1,11 @@
+['documento'] = {
+	label = 'Documento stampato',
+	weight = 3,
+	stack = false,
+	close = true,
+},
+
+['cartastampa'] = {
+	label = 'Carta da Stampa',
+	weight = 5,
+},

@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.stampante {
+    display: none;
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 40%;
+    height: 50%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.titolo {
+    padding: 0.5%;
+    background-color: #3267c7;
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+}
+
+.link {
+    font-family: Arial, Helvetica, sans-serif;
+    resize: none;
+    border: none;
+    width: 60%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    border-bottom: 3px solid red;
+    font-size: 18px;
+    margin-top: 15%;
+    margin-left: 19%;
+    outline: none;
+    text-align: center;
+    background-color: #e5e5e5;
+    border-top-left-radius: 19px;
+    border-top-right-radius: 19px;
+    overflow: hidden;
+}
+
+.link:focus {
+    border-bottom: 3px solid green;
+}
+
+.invio {
+    cursor: pointer;
+    border: none;
+    margin-top: 10%;
+    margin-left: 42.5%;
+    width: 13%;
+    height: 7%;
+    border-radius: 5px;
+    text-align: center;
+    color: black;
+    background-color: #3267c7;
+    font-weight: 700; 
+    font-size: 20px;
+}
+
+.foto {
+    display: none;
+    margin-left: 3%;
+    margin-top: 5%;
+}
